@@ -5,7 +5,7 @@
 <h4>How to run program?</h4>
   <ol>
     <li>Save files <strong><em>hashBreaker.py</em></strong> and <strong><em>wordCheck.txt</em></strong> in the same folder.</li>
-    <li>Open terminal/cmd and go inside of the folder with the two files saved.</li>
+    <li>Open terminal/cmd and go inside of the folder where the two files are saved.</li>
     <li>Type command <em>python hashBreaker.py</em>.</li>
     <li>Once the program is running, the user is asked to input the hash and from their the program checkes the hash with the hash of words saved within <em>wordCheck.txt</em>. When a match is made the program will tell the user what word(s) made up the entered hash, how many attempts, and how long the process took. When there is no match, the program will return nothihng.</li>
   </ol>
