@@ -1,7 +1,7 @@
 <center>
   <h1>Blockchain & Applications Assignment 2</h1>
   <p>A program that breaks SHA1 hashes in a brute force manner.</p>
-  <h1>Breaking SHA1 hashes</h1>
+  <h2>Breaking SHA1 hashes</h2>
 <h4>How to run program?</h4>
   <ol>
     <li>Save files <strong><em>hashBreaker.py</em></strong> and <strong><em>wordCheck.txt</em></strong> in the same folder.</li>
