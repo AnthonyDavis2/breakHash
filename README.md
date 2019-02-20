@@ -1,4 +1,4 @@
-<center>
+
   <h1>Blockchain & Applications Assignment 2</h1>
   <p>A program that breaks SHA1 hashes in a brute force manner.</p>
   <h2>Breaking SHA1 hashes</h2>
@@ -17,4 +17,4 @@
     <li>graduate student: 34302959e138917ce9339c0b30ec50e650ce6b40 <p>Hint: This hash constitutes two terms separated by one space.</p></li>
   </ol>
   <h4>Solutions to exercises</h4>
-</center>
+
