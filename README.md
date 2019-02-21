@@ -1,5 +1,5 @@
 
-  <h1>Blockchain & Applications Assignment 2</h1>
+  <h1>Blockchain & Applications</h1>
   <p>A program that breaks SHA1 hashes in a brute force manner.</p>
   <h2>Breaking SHA1 hashes</h2>
 <h4>How to run program?</h4>
