@@ -21,4 +21,8 @@
     <li>graduate student: 34302959e138917ce9339c0b30ec50e650ce6b40 <p>Hint: This hash constitutes two terms separated by one space.</p></li>
   </ol>
   <h4>Solutions to exercises</h4>
-
+  <ol>
+  <li>Found Hash Match<br>Number of Attempts: 15<br>Match Word: letmein</li>
+  <li>Found Hash Match<br>Number of Attempts: 999967<br>Match Word: vjhtrhsvdctcegth</li>
+  <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Second Hash Match<br>Number of Attempts: 546154<br>Match Word: harib</li>
+</ol>
