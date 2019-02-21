@@ -24,5 +24,5 @@
   <ol>
   <li>Found Hash Match<br>Number of Attempts: 15<br>Match Word: letmein</li>
   <li>Found Hash Match<br>Number of Attempts: 999967<br>Match Word: vjhtrhsvdctcegth</li>
-  <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Second Hash Match<br>Number of Attempts: 546154<br>Match Word: harib</li>
+  <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Final Hash Match<br>Number of Attempts: 546154<br>Match Word: harib</li>
 </ol>
