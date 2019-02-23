@@ -18,11 +18,10 @@
     <li>Testing program hash: b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3</li>
     <li>Medium hacker hash: 801cdea58224c921c21fd2b183ff28ffa910ce31</li>
     <li> leet hacker hash: ece4bb07f2580ed8b39aa52b7f7f918e43033ea1 <br>Hint: The salt term here is: f0744d60dd500c92c0d37c16174cc58d3c4bdd8e this is concatenated before hashing with another word to produce the salted hash.</li>
-    <li>graduate student: 34302959e138917ce9339c0b30ec50e650ce6b40 <br>Hint: This hash constitutes two terms separated by one space.</li>
   </ol>
   <h4>Solutions to exercises</h4>
   <ol>
-  <li>Found Hash Match<br>Number of Attempts: 15<br>Match Word: letmein</li>
-  <li>Found Hash Match<br>Number of Attempts: 999967<br>Match Word: vjhtrhsvdctcegth</li>
-  <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Final Hash Match<br>Number of Attempts: 546154<br>Match Word: slayerharib</li>
+  <li>Found Hash Match<br>Number of Attempts: 15<br>Match Word: letmein<br>Program runtime is: 0.0766329</li>
+  <li>Found Hash Match<br>Number of Attempts: 999967<br>Match Word: vjhtrhsvdctcegth<br>Program runtime is: 2.4387748</li>
+  <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Final Hash Match<br>Number of Attempts: 546154<br>Match Word: slayerharib<br>Program runtime is: 1.3684120</li>
 </ol>
