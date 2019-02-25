@@ -25,3 +25,4 @@
   <li>Found Hash Match<br>Number of Attempts: 999967<br>Match Word: vjhtrhsvdctcegth<br>Program runtime is: 2.4387748</li>
   <li>Found Hash Match<br>Number of Attempts: 216<br>Match Word: slayer<br>Found Final Hash Match<br>Number of Attempts: 546154<br>Match Word: slayerharib<br>Program runtime is: 1.3684120</li>
 </ol>
+<strong><em>Anthony Davis Assignment 2 for Blockchain and Applications</em></strong>
